@@ -52,7 +52,7 @@
     <h1 class="display-4">Ailton Souza</h1>
     <p class="lead">Responsável pela criação da pagina inicial, com informações da equipe</p>
     <hr class="my-4 linha">
-    <p>Estudante do curso de Análise de Sistemas na Fatec Praia Grande.</p>
+    <p>Estudante do curso de Análise e Desenvolvimento de Sistemas na Fatec Praia Grande.</p>
     <p class="lead">
       <a class="btn btn-primary btn-lg" href="home.jsp" role="button">inicio</a>
     </p>
@@ -68,7 +68,7 @@
     <h1 class="display-4">Carlos</h1>
     <p class="lead">Responsável pela criação da pagina ...</p>
     <hr class="my-4 linha">
-    <p>Estudante do curso de Análise de Sistemas na Fatec Praia Grande.</p>
+    <p>Estudante do curso de Análise e Desenvolvimento de Sistemas na Fatec Praia Grande.</p>
     <p class="lead">
       <a class="btn btn-primary btn-lg" href="#" role="button">inicio</a>
     </p>
@@ -84,12 +84,12 @@
     <h1 class="display-4">Fábio</h1>
     <p class="lead">Responsável pela criação da pagina ...</p>
     <hr class="my-4 linha">
-    <p>Estudante do curso de Análise de Sistemas na Fatec Praia Grande.</p>
+    <p>Estudante do curso de Análise e Desenvolvimento de Sistemas na Fatec Praia Grande.</p>
     <p class="lead">
       <a class="btn btn-primary btn-lg" href="#" role="button">inicio</a>
     </p>
     <div class="imagem">
-      <img src="img/dog2.jpg">
+      <img src="img/fabio.jpeg">
     </div>
   </div>
 </section>
@@ -100,7 +100,7 @@
     <h1 class="display-4">Lucas</h1>
     <p class="lead">Responsável pela criação da pagina ...</p>
     <hr class="my-4 linha">
-    <p>Estudante do curso de Análise de Sistemas na Fatec Praia Grande.</p>
+    <p>Estudante do curso de Análise e Desenvolvimento de Sistemas na Fatec Praia Grande.</p>
     <p class="lead">
       <a class="btn btn-primary btn-lg" href="#" role="button">inicio</a>
     </p>
