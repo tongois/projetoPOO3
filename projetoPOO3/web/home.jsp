@@ -54,7 +54,7 @@
     <hr class="my-4 linha">
     <p>Estudante do curso de Análise de Sistemas na Fatec Praia Grande.</p>
     <p class="lead">
-      <a class="btn btn-primary btn-lg" href="#" role="button">inicio</a>
+      <a class="btn btn-primary btn-lg" href="home.jsp" role="button">inicio</a>
     </p>
     <div class="imagem">
       <img src="img/ailton.jpg">
@@ -65,19 +65,52 @@
 <section>
  <div class="jumbotron caixal2">
   <div class="info">
-    <h1 class="display-4">Ailton Souza</h1>
-    <p class="lead">Responsável pela criação da pagina inicial, com informações da equipe</p>
+    <h1 class="display-4">Carlos</h1>
+    <p class="lead">Responsável pela criação da pagina ...</p>
     <hr class="my-4 linha">
-    <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+    <p>Estudante do curso de Análise de Sistemas na Fatec Praia Grande.</p>
     <p class="lead">
       <a class="btn btn-primary btn-lg" href="#" role="button">inicio</a>
     </p>
   </div>
   <div class="imagem">
-    <img src="dog2.jpg">
+    <img src="img/dog2.jpg">
   </div>
 </div>
 </section>
+        
+<section>
+  <div class="jumbotron caixal1">
+    <h1 class="display-4">Fábio</h1>
+    <p class="lead">Responsável pela criação da pagina ...</p>
+    <hr class="my-4 linha">
+    <p>Estudante do curso de Análise de Sistemas na Fatec Praia Grande.</p>
+    <p class="lead">
+      <a class="btn btn-primary btn-lg" href="#" role="button">inicio</a>
+    </p>
+    <div class="imagem">
+      <img src="img/dog2.jpg">
+    </div>
+  </div>
+</section>
+        
+<section>
+ <div class="jumbotron caixal2">
+  <div class="info">
+    <h1 class="display-4">Lucas</h1>
+    <p class="lead">Responsável pela criação da pagina ...</p>
+    <hr class="my-4 linha">
+    <p>Estudante do curso de Análise de Sistemas na Fatec Praia Grande.</p>
+    <p class="lead">
+      <a class="btn btn-primary btn-lg" href="#" role="button">inicio</a>
+    </p>
+  </div>
+  <div class="imagem">
+    <img src="img/dog2.jpg">
+  </div>
+</div>
+</section>
+        
 
 <footer>
   <div class="rodape">
