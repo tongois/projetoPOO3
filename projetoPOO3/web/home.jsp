@@ -9,9 +9,11 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Inicio</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <include page="style.css"/>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1 class="titulo">Apresentação da equipe</h1>
     </body>
 </html>
