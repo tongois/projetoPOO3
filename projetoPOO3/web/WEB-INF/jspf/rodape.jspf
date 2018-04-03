@@ -1,0 +1,7 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<footer>
+  <div class="rodape">
+    <p class="direitos">© 2018, POO, Todos os Direitos Reservados.</p>
+  </div>
+</footer>

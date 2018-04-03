@@ -15,30 +15,7 @@
 
     </head>
     <body>
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="#"><img src="img/marca.png" class="marca"></a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav">
-        <li class="nav-item active">
-          <a class="nav-link" href="#">Inicio <span class="sr-only">(atual)</span></a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Constante</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Americana</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Tabela Price</a>
-        </li>
-
-      </ul>
-    </div>
-  </nav>
-
+        <%@include file="WEB-INF/jspf/menu.jspf" %>
 
   <header>
    <div class="jumbotron apresentacao">
@@ -112,10 +89,6 @@
 </section>
         
 
-<footer>
-  <div class="rodape">
-    <p class="direitos">© 2018, POO, Todos os Direitos Reservados.</p>
-  </div>
-</footer>
+<%@include file="WEB-INF/jspf/rodape.jspf" %>
     </body>
 </html>
