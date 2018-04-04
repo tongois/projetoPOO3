@@ -31,7 +31,7 @@
     <hr class="my-4 linha">
     <p>Estudante do curso de Análise e Desenvolvimento de Sistemas na Fatec Praia Grande.</p>
     <p class="lead">
-      <a class="btn btn-primary btn-lg" href="home.jsp" role="button">inicio</a>
+      <a class="btn btn-primary btn-lg" href="home.jsp" role="button">Inicio</a>
     </p>
     <div class="imagem">
       <img src="img/ailton.jpg">
@@ -43,15 +43,15 @@
  <div class="jumbotron caixal2">
   <div class="info">
     <h1 class="display-4">Carlos</h1>
-    <p class="lead">Responsável pela criação da pagina ...</p>
+    <p class="lead">Responsável pela criação da página de  Amortização Constante</p>
     <hr class="my-4 linha">
     <p>Estudante do curso de Análise e Desenvolvimento de Sistemas na Fatec Praia Grande.</p>
     <p class="lead">
-      <a class="btn btn-primary btn-lg" href="#" role="button">inicio</a>
+      <a class="btn btn-primary btn-lg" href="#" role="button">Constante</a>
     </p>
   </div>
   <div class="imagem">
-    <img src="img/dog2.jpg">
+    <img src="img/carlos.jpeg">
   </div>
 </div>
 </section>
@@ -59,11 +59,11 @@
 <section>
   <div class="jumbotron caixal1">
     <h1 class="display-4">Fábio</h1>
-    <p class="lead">Responsável pela criação da pagina ...</p>
+    <p class="lead">Responsável pela criação da página da Tabela Price</p>
     <hr class="my-4 linha">
     <p>Estudante do curso de Análise e Desenvolvimento de Sistemas na Fatec Praia Grande.</p>
     <p class="lead">
-      <a class="btn btn-primary btn-lg" href="#" role="button">inicio</a>
+      <a class="btn btn-primary btn-lg" href="#" role="button">Tabela Price</a>
     </p>
     <div class="imagem">
       <img src="img/fabio.jpeg">
@@ -74,12 +74,12 @@
 <section>
  <div class="jumbotron caixal2">
   <div class="info">
-    <h1 class="display-4">Lucas</h1>
-    <p class="lead">Responsável pela criação da pagina ...</p>
+    <h1 class="display-4">Lucas Santana</h1>
+    <p class="lead">Responsável pela criação da pagina de Amortização Americana</p>
     <hr class="my-4 linha">
     <p>Estudante do curso de Análise e Desenvolvimento de Sistemas na Fatec Praia Grande.</p>
     <p class="lead">
-      <a class="btn btn-primary btn-lg" href="#" role="button">inicio</a>
+      <a class="btn btn-primary btn-lg" href="#" role="button">Americana</a>
     </p>
   </div>
   <div class="imagem">
