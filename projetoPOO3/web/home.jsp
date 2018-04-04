@@ -63,7 +63,7 @@
     <hr class="my-4 linha">
     <p>Estudante do curso de Análise e Desenvolvimento de Sistemas na Fatec Praia Grande.</p>
     <p class="lead">
-      <a class="btn btn-primary btn-lg" href="#" role="button">Tabela Price</a>
+      <a class="btn btn-primary btn-lg" href="tabela-price.jsp" role="button">Tabela Price</a>
     </p>
     <div class="imagem">
       <img src="img/fabio.jpeg">
