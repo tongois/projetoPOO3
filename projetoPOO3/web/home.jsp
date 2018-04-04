@@ -47,7 +47,7 @@
     <hr class="my-4 linha">
     <p>Estudante do curso de Análise e Desenvolvimento de Sistemas na Fatec Praia Grande.</p>
     <p class="lead">
-      <a class="btn btn-primary btn-lg" href="#" role="button">Constante</a>
+      <a class="btn btn-primary btn-lg" href="amortizacao-constante.jsp" role="button">Constante</a>
     </p>
   </div>
   <div class="imagem">

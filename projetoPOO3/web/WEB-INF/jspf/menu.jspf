@@ -11,7 +11,7 @@
           <a class="nav-link" href="home.jsp">Inicio <span class="sr-only">(atual)</span></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Constante</a>
+          <a class="nav-link" href="amortizacao-constante.jsp">Constante</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Americana</a>
