@@ -42,7 +42,7 @@
 <section>
  <div class="jumbotron caixal2">
   <div class="info">
-    <h1 class="display-4">Carlos</h1>
+    <h1 class="display-4">Carlos Ferreira</h1>
     <p class="lead">Responsável pela criação da página de  Amortização Constante</p>
     <hr class="my-4 linha">
     <p>Estudante do curso de Análise e Desenvolvimento de Sistemas na Fatec Praia Grande.</p>
@@ -58,7 +58,7 @@
         
 <section>
   <div class="jumbotron caixal1">
-    <h1 class="display-4">Fábio</h1>
+    <h1 class="display-4">Fábio Pecora</h1>
     <p class="lead">Responsável pela criação da página da Tabela Price</p>
     <hr class="my-4 linha">
     <p>Estudante do curso de Análise e Desenvolvimento de Sistemas na Fatec Praia Grande.</p>
