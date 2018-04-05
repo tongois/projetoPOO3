@@ -79,11 +79,11 @@
     <hr class="my-4 linha">
     <p>Estudante do curso de Análise e Desenvolvimento de Sistemas na Fatec Praia Grande.</p>
     <p class="lead">
-      <a class="btn btn-primary btn-lg" href="#" role="button">Americana</a>
+      <a class="btn btn-primary btn-lg" href="amortizacao-americana.jsp" role="button">Americana</a>
     </p>
   </div>
   <div class="imagem">
-    <img src="img/dog2.jpg">
+    <img src="img/lucas.jpg">
   </div>
 </div>
 </section>

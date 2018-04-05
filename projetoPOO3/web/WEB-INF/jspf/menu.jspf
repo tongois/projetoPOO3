@@ -14,7 +14,7 @@
           <a class="nav-link" href="amortizacao-constante.jsp">Constante</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Americana</a>
+          <a class="nav-link" href="amortizacao-americana.jsp">Americana</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="tabela-price.jsp">Tabela Price</a>
